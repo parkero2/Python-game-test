@@ -1,2 +1,0 @@
-global version
-current = "0.0.1"
